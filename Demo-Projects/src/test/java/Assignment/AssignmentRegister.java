@@ -13,6 +13,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class AssignmentRegister 
 {
 //It is a Register Program
+	// it will Create new account
 	public static void main(String[] args)
 	{
 		WebDriverManager.chromedriver().setup();
