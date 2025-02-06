@@ -1,0 +1,5 @@
+#CommomData
+#Thu Aug 29 23:04:43 IST 2024
+jewelryBoxColor=Clear, Light Green
+jewelryBoxName=4tens Makeup Storage Organizer,Large Skincare Organizer Cosmetic Display Case with Lid Makeup Organizer Vanity Box
+url=https\://www.flipkart.com/
